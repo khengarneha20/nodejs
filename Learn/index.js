@@ -4,3 +4,5 @@ const fs = require("fs");
 fs.writeFileSync("read.txt" , "Welcome to my Page neha khengar" , );
 
 fs.appendFileSync("read.txt" , "This is appended filer");
+
+console.log("test");
